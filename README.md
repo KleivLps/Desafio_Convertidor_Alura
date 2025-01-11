@@ -16,15 +16,15 @@ El metodo de instalacion es facil, solo necesitas descargar este archivo en form
 
 El menu principal cuenta con 12 opciones:
 
-|° **_opcion 1 - 2:_** Permite convertir los Dolares *[USD]* a Soles peruanos *[PEN] y viceversa. 
+|° **_opcion 1 - 2:_** Permite convertir los Dolares *[USD]* a Soles peruanos *[PEN]* y viceversa. 
 
-|° **_opcion 3 - 4:_** Permite convertir los Dolares *[USD]* a Bolivares *[VED] y viceversa.
+|° **_opcion 3 - 4:_** Permite convertir los Dolares *[USD]* a Bolivares *[VED]* y viceversa.
 
-|° **_opcion 5 - 6:_** Permite convertir los Dolares *[USD]* a Pesos Mexicanos *[MXN] y viceversa.
+|° **_opcion 5 - 6:_** Permite convertir los Dolares *[USD]* a Pesos Mexicanos *[MXN]* y viceversa.
 
-|° **_opcion 7 - 8:_** Permite convertir los Dolares *[USD]* a Pesos Argentinos *[ARS] y viceversa.
+|° **_opcion 7 - 8:_** Permite convertir los Dolares *[USD]* a Pesos Argentinos *[ARS]* y viceversa.
 
-|° **_opcion 9 - 10:_** Permite convertir los Dolares *[USD]* a Pesos Chilenos *[CLP] y viceversa.
+|° **_opcion 9 - 10:_** Permite convertir los Dolares *[USD]* a Pesos Chilenos *[CLP]* y viceversa.
 
 |° **_opcion 11:_** Permite buscar cualquier divisa dentro de la base de datos de la API y convertirla a otra.
 
